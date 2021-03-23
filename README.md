@@ -1,4 +1,5 @@
 # Amazonika
+## Gehostet auf: https://xenatal-amazonika.netlify.app/
 ## gemacht: Natalia H
 ### Technology:
 - HTML
@@ -7,8 +8,6 @@
 - Slick Slider
 
 
-
-Gehostet auf: https://xenatal-amazonika.netlify.app/
 
 ## Struktur:
 ![Mindmap der Struktur](/Amazonika.png)
