@@ -1,4 +1,4 @@
-# amazonika
+# Amazonika
 ## gemacht: Natalia H
 ### Technology:
 - HTML
